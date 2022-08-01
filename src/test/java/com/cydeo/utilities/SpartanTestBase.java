@@ -12,5 +12,7 @@ public class SpartanTestBase {
 
         //save baseurl inside this variable so that we don't need to type each http method.
         baseURI = "http://54.152.94.133:8000";
+
+        //get ip address from configurations
     }
 }
