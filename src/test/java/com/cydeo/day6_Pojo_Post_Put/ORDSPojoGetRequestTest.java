@@ -86,6 +86,7 @@ public class ORDSPojoGetRequestTest extends HRTestBase {
         //compare two results
         assertThat(regionIds,is(expectedRegionIds));
         assertThat(regionNames,is(expectedRegionNames));
+
     }
 
 }
